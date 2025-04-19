@@ -7,6 +7,7 @@ export default interface IDigitalClockConfig {
     dateFormat?: (LocaleOptions & DateTimeFormatOptions) | string;
     timeZone?: string;
     locale?: string;
+    size?: number;
     firstLineFormat?: (LocaleOptions & DateTimeFormatOptions) | string;
     secondLineFormat?: (LocaleOptions & DateTimeFormatOptions) | string;
 }
