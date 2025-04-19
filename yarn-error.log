@@ -40,7 +40,7 @@ npm manifest:
       "custom-cards"
     ],
     "module": "dist/HaDashboard.js",
-    "repository": "git@github.com:wassy92x/lovelace-ha-dashboard.git",
+    "repository": "git@github.com/ZiteDesigns/lovelace-digital-clock.git",
     "author": "Fabian Wassenhoven <info@it-creators.de>",
     "license": "MIT",
     "dependencies": {
