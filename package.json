@@ -8,7 +8,8 @@
     "hass",
     "automation",
     "lovelace",
-    "custom-cards"
+    "custom-cards",
+    "mineown"
   ],
   "module": "dist/DigitalClock.js",
   "repository": "git@github.com:wassy92x/lovelace-digital-clock.git",
