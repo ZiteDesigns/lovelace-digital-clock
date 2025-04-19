@@ -146,12 +146,12 @@ export class DigitalClock extends LitElement {
           }
 
           .first-line {
-            font-size: 5.8em;
+            font-size: (2.8 + this.config._size)em;
             line-height: 1em;
           }
 
           .second-line {
-            font-size: 4.6em;
+            font-size: (1.6 + this.config._size)em;
             line-height: 1em;
           }
         `;
