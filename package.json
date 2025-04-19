@@ -12,7 +12,7 @@
     "mineown"
   ],
   "module": "dist/DigitalClock.js",
-  "repository": "git@github.com:wassy92x/lovelace-digital-clock.git",
+  "repository": "git@github.com/ZiteDesigns/lovelace-digital-clock.git",
   "author": "Fabian Wassenhoven <info@it-creators.de>",
   "license": "MIT",
   "dependencies": {
